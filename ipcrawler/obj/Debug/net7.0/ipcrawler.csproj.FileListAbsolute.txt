@@ -1,0 +1,15 @@
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/bin/Debug/net7.0/ipcrawler
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/bin/Debug/net7.0/ipcrawler.deps.json
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/bin/Debug/net7.0/ipcrawler.runtimeconfig.json
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/bin/Debug/net7.0/ipcrawler.dll
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/bin/Debug/net7.0/ipcrawler.pdb
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.csproj.AssemblyReference.cache
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.AssemblyInfoInputs.cache
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.AssemblyInfo.cs
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.csproj.CoreCompileInputs.cache
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.dll
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/refint/ipcrawler.dll
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.pdb
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ipcrawler.genruntimeconfig.cache
+/Users/henriklindstad/Projects/ipcrawler/ipcrawler/obj/Debug/net7.0/ref/ipcrawler.dll
